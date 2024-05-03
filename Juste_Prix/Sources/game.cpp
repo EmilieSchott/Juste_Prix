@@ -1,8 +1,8 @@
 #include <iostream>
 #include <array>
 #include <chrono>
-#include "../Headers/game.hpp"
-#include "../Headers/constants.hpp"
+#include "../Headers/game.h"
+#include "../Headers/constants.h"
 
 using namespace std;
 

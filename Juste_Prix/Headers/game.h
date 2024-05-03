@@ -1,7 +1,7 @@
 #pragma once
 
 #include <array>
-#include "../Headers/constants.hpp"
+#include "../Headers/constants.h"
 
 // type custom :
 using HallOfFame = std::array<int, SCORES_TO_DISPLAY_NUMBER>;
